@@ -42,34 +42,34 @@ A flashcard app built with SwiftUI, designed to help users practice and memorize
 
 # **Requirements**
 
-  Xcode 12 or later
+  - Xcode 12 or later
 
-  iOS 14.0 or later
+  - iOS 14.0 or later
 
-  Swift 5.0
+  - Swift 5.0
 
 # **Technologies Used**
 
-**SwiftUI:** For building the user interface.
+- **SwiftUI:** For building the user interface.
 
-**Core Data:** For storing flashcards and progress data locally.
+- **Core Data:** For storing flashcards and progress data locally.
 
-**Animations:** For creating smooth flashcard flipping effects.
+- **Animations:** For creating smooth flashcard flipping effects.
 
 
 # **Future Improvements**
 
-Add additional quiz modes for advanced learning.
+- Add additional quiz modes for advanced learning.
 
-Include spaced repetition algorithms for smarter study sessions.
+- Include spaced repetition algorithms for smarter study sessions.
 
-Enable syncing of flashcards across devices using iCloud.
+- Enable syncing of flashcards across devices using iCloud.
 
 # **License**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 # Contributing
 
-Feel free to open issues or submit pull requests to improve this project.
+- Feel free to open issues or submit pull requests to improve this project.
